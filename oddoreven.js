@@ -16,5 +16,3 @@ const oddOrEven = (num) => {
     return "Odd";
   }
 };
-
-console.log(oddOrEven(63));
